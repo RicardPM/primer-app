@@ -1,0 +1,39 @@
+body{
+
+	font-family: "trebuchet MS";
+}
+
+header{
+	background-color: gray;
+}
+main{
+	background-color: black;
+	overflow: hidden;
+	
+}
+footer{
+	text-align: center; 
+	color: black;
+	background-color: gray;
+}
+
+main img{
+	text-align: center;
+}
+
+img{
+	padding: 5px;
+	width: 90vw;
+	height: 30vh;
+	overflow: hidden;
+	float: left;
+	
+    margin: auto;
+}
+p{
+	clear: both !important;
+	color: white;
+}º
+h1{
+	text-align: center;
+}
